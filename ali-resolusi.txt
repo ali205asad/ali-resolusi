@@ -2,5 +2,5 @@ ali resolusi
 - konsisten belajar pemograman
 - membuat website
 - membuat forum diskusi
-- membuat website ecomers
 - berkolaborasi dengan senior web developaer
+- membuat aplikasi
